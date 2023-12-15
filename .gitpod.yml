@@ -5,5 +5,5 @@ tasks:
     nvm use
     npm install
     curl -sL install.mob.sh | sudo sh
-   command: npm run test:watch
+   command: npm run test
    
