@@ -4,7 +4,7 @@
   "description": "Basic repository to use as starting point for a small Typescript project e.g. in a coding kata",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -r ts-node/register test/ts/**/*.test.ts"
   },
   "keywords": [],
   "author": "Holger Janßen-Kroll",
