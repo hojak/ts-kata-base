@@ -1,7 +1,8 @@
 import { expect } from "chai";
+import { MyClass } from "../../src/ts/myclass";
 
-describe ('first test', () => {
-    it ('should be true', () => {
-        expect(true).to.be.equal(true);
+describe ('MyClass', () => {
+    it ('should create an instance', () => {
+        expect(new MyClass()).not.to.be.null;
     })
 });
