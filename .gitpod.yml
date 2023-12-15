@@ -1,3 +1,4 @@
+
 tasks:
  - name: Setup Gitpod and Run Tests
    init: |
@@ -6,4 +7,9 @@ tasks:
     npm install
     curl -sL install.mob.sh | sudo sh
    command: npm run test
-   
+
+
+vscode:
+  extensions:
+    - hbenl.vscode-mocha-test-adapter
+    - ms-vscode.vscode-typescript-next
