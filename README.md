@@ -50,6 +50,15 @@ Basic repository to use as starting point for a small Typescript project e.g. in
 
 * Make sure to do a debriefing at the end of or after the session.
 
+## Recommended VS Code Extensions:
+ * JavaScript and TypeScript Nightly
+ 
+     https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
+ * Mocha Test Explorer
+
+    https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter
+
+
 ## Hints / Recommendations
 
 * Mocha for Testing
