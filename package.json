@@ -1,0 +1,12 @@
+{
+  "name": "ts-kata-base",
+  "version": "1.0.0",
+  "description": "Basic repository to use as starting point for a small Typescript project e.g. in a coding kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Holger Janßen-Kroll",
+  "license": "GPL v3"
+}
