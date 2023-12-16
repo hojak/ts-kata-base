@@ -31,7 +31,7 @@ Basic repository to use as starting point for a small Typescript project e.g. in
         * oh Git, of course, you need git...
     * clone the new repo locally and open it your IDE
     * run ```npm install```
-3. Make sure a ``npm run test:unit`` works.
+3. Make sure a ``npm run test`` works.
 4. You're ready to start
 
 ## The Mob Session Itself
